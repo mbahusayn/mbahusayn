@@ -1,7 +1,6 @@
 # Hi there 👋
-### Mohammed Bahusayn.
 
-### *A Full-Stack **.NET** Developer.*
+### *I'm a Full-Stack **.NET** Developer.*
 
 <!--
 Currently, I'm learning SwiftUI, JS, React, and many more to come!
