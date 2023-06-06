@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+### Mohammed Bahusayn.
+
+### *A Full-Stack **.NET** Developer.*
 
 <!--
+Currently, I'm learning SwiftUI, JS, React, and many more to come!
+
+This is just the beginning. you may refer to my repos for more insights.
+
 **mbahusayn/mbahusayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
